@@ -1,0 +1,64 @@
+html {
+	background-color: black;
+}
+
+.wrapper{
+	color: white;
+	height: 100vh;
+}
+
+#form{
+	margin: auto;
+	width: 50%;
+	border: 3px red solid;
+	color: white;
+}
+
+#form form{
+		text-align: center;
+}
+
+h1{
+	color: red;
+	font-size: 55px;
+	text-align: center;
+	font-family: NCAA Georgia Bulldog Bold;
+}
+
+input[type=text],input[type=password]{
+    width: 30%;
+    height: 30pt;
+    margin-bottom: 15pt;
+    font-family: "Open Sans";
+    font-size: 15px;
+    padding-left: 10pt;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+#button{
+    width: 30%;
+    background-color: rgb(217, 30, 24);
+    font-family: Georgia, "Open Sans";
+    font-size: 20px;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    height: 50pt;
+}
+
+#notice{
+	text-align: center;
+}
+
+.aboutUs{
+	margin: auto;
+	width: 50%;
+	border: 3px red solid;
+	text-align: center;
+}
+
+.aboutUs p{
+	color: white;
+}

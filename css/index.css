@@ -1,0 +1,267 @@
+
+body, html{
+    padding: 0pt;
+    margin: 0pt;
+}
+
+.I_m_Interested {
+  font-size: 50px;
+  font-family: "NCAA Georgia Bulldog Bold";
+  color: rgb(246, 246, 246);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 1446.905px;
+  top: 814.151px;
+  width: 374px;
+  height: 96px;
+  z-index: 20;
+}
+#wrapper{
+    padding: 0px;
+    background-image: url("BackgroundImg.png");
+    background-repeat: no-repeat;
+    margin: auto;
+     width: 100%;
+    height: 560px;
+}
+.ButtonInterest {
+  background-color: rgb(158, 11, 15);
+  position: absolute;
+  left: 1448px;
+  top: 795px;
+  width: 451px;
+  height: 163px;
+  z-index: 19;
+}
+.Copyrighted_2017 {
+  font-size: 15px;
+  font-family: "Helvetica Neue";
+  color: rgb(246, 246, 246);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 1487.885px;
+  top: 1047.145px;
+  width: 105px;
+  height: 14px;
+  z-index: 18;
+}
+.SlideShowPlaceHolder {
+  background-image: url("SlideShowPlaceHolder.png");
+  position: absolute;
+  left: 462px;
+  top: 690px;
+  width: 964px;
+  height: 390px;
+  z-index: 17;
+}
+.Semester_ {
+  font-size: 50px;
+  font-family: "NCAA Georgia Bulldog Bold";
+  color: rgb(249, 64, 64);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 959.586px;
+  top: 596.948px;
+  width: 319px;
+  height: 36px;
+  z-index: 16;
+}
+.No__Of_Beds {
+  font-size: 50px;
+  font-family: "NCAA Georgia Bulldog Bold";
+  color: rgb(249, 64, 64);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 505.458px;
+  top: 597.182px;
+  width: 358px;
+  height: 38px;
+  z-index: 15;
+}
+.Location {
+  font-size: 50px;
+  font-family: "NCAA Georgia Bulldog Bold";
+  color: rgb(249, 64, 64);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 2.541px;
+  top: 597.182px;
+  width: 306px;
+  height: 38px;
+  z-index: 14;
+}
+.Submit {
+  font-size: 50px;
+  font-family: "NCAA Georgia Bulldog Bold";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 1419.583px;
+  top: 592.948px;
+  width: 230px;
+  height: 37px;
+  z-index: 13;
+}
+.Submit_Button {
+  background-color: rgb(230, 0, 0);
+  opacity: 0.431;
+  position: absolute;
+  left: 1426px;
+  top: 554px;
+  width: 494px;
+  height: 136px;
+  z-index: 12;
+}
+.MBBackground {
+    width: 100%;
+    overflow:hidden;
+  background-color: rgb(37, 37, 37);
+}
+.SHFSBS {
+    margin: 0pt;
+    padding: 10pt;
+  font-size: 60px;
+  font-family: "Yesteryear";
+  color: rgb(255, 0, 0);
+  line-height: 1.2;
+  text-align: center;
+
+  width: 619px;
+  height: 141px;
+}
+#description{
+    background-image: 
+}
+table{
+    float:right;
+display: inline-block;
+ padding: 0pt;
+margin: 0pt;
+}
+input[name="sign in"]{
+     background-color: rgb(100, 0, 0);
+  width: 387px;
+  height: 107px;
+  font-size: 30px;
+  font-family: "NCAA Georgia Bulldog Bold";
+  color: rgb(41, 25, 25);
+  text-align: center;
+}
+input[name="sign up"]{
+     background-color: rgb(100, 0, 0);
+  width: 387px;
+  height: 107px;
+  font-size: 30px;
+  font-family: "NCAA Georgia Bulldog Bold";
+  color: rgb(41, 25, 25);
+  text-align: center;
+}
+input[name="search"]{
+     background-color: rgb(100, 0, 0);
+     color: rgb(249, 64, 64);
+  width: 387px;
+  height: 107px;
+  font-size: 30px;
+  font-family: "NCAA Georgia Bulldog Bold";
+  color: rgb(41, 25, 25);
+  text-align: center;
+}
+select[name="location"]{
+  background-color: rgb(9, 2, 2);
+     color: rgb(249, 64, 64);
+  width: 287px;
+  height: 107px;
+  font-size: 30px;
+  font-family: "NCAA Georgia Bulldog Bold";
+
+  text-align: center;
+}
+select[name="bedNumber"]{
+  background-color: rgb(9, 2, 2);
+     color: rgb(249, 64, 64);
+  width: 287px;
+  height: 107px;
+  font-size: 30px;
+  font-family: "NCAA Georgia Bulldog Bold";
+  text-align: center;
+}
+select[name="date"]{
+  background-color: rgb(9, 2, 2);
+    color: rgb(249, 64, 64);
+  width: 287px;
+  height: 107px;
+  font-size: 30px;
+  font-family: "NCAA Georgia Bulldog Bold";
+  text-align: center;
+position: relative; 
+}
+select[name="price"]{
+  background-color: rgb(9, 2, 2);
+    color: rgb(249, 64, 64);
+  width: 287px;
+  height: 107px;
+  font-size: 30px;
+  font-family: "NCAA Georgia Bulldog Bold";
+  text-align: center;
+position: relative; 
+}
+input[type=submit]{
+ 
+  
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    color: rgb(249, 64, 64);
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+    font-size:30px;
+}
+
+li a, .dropbtn {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+    background-color: red;
+}
+
+li.dropdown {
+    display: inline-block;
+}
+
+.BullDawgBeds {
+    margin: 0pt;
+    padding: 0pt;
+    float: left;
+  white-space: nowrap;
+  font-size: 80px;
+  font-family: "NCAA Georgia Bulldog Bold";
+  color: rgb(249, 64, 64);
+  text-align: left;
+  width: 729px;
+  height: 40px;
+ 
+}
+.HeaderBacking {
+  background-color: rgb(9, 2, 2);
+    overflow:hidden;
+  width: 100%;
+
+}
